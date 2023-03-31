@@ -1,0 +1,4 @@
+#Modules to install before running mammoth_cave.ipynb:
+
+pandas==1.5.0
+openpyxl==3.1.2
