@@ -12,12 +12,15 @@ Also downloaded and saved locally.
 
 Feature 1: Downloaded 2 data sets, Mammoth Cave visitors data and Average Gas Prices data. 
 
-Feature 2: Clean amd merge data using pandas df and merge functions. 
+Feature 2: Clean and merge data using pandas df and merge functions. 
 
 Feature 3: Create Tableau dashboard to show analysis.
+
+I created a Tableau dashboard to showcase this correlation, which can be found here: https://public.tableau.com/app/profile/tanya.fowler/viz/VisitorstoMammothCavebyGasPrices/VisitvsPriceLineChart?publish=yes
+
 
 Feature 4: Markdown cells and Readme file. Analysis of project/thought process. 
 
 The analysis showed that there is a significant corrlation between average gas prices and visitors to the park. Lower gas prices bring more visitors, with one exception. The year 2020 was a low price/low visit year. I think that year was a big un-fun for everyone. Social Distancing took a toll on the parks visitor numbers, despite gas prices being at a low level. 
 
-I created a Tableau dashboard to showcase this correlation, which can be found here: https://public.tableau.com/app/profile/tanya.fowler/viz/VisitorstoMammothCavebyGasPrices/VisitvsPriceLineChart?publish=yes
+
